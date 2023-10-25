@@ -1,0 +1,10 @@
+vlan 10
+name Tecnologia
+vlan 20
+name Diretoria
+vlan 30
+name Vendas
+vlan 40
+name Compras
+vlan 100
+name Roteamento
